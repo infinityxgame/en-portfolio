@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://infinityxgame.github.io/portafolio/sitemap.xml

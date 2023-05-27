@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portafolio",
+    "description": "",
+    "home_page_url": "https://infinityxgame.github.io/portafolio",
+    "feed_url": "https://infinityxgame.github.io/portafolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Frank Machado Graziadio"
+    },
+    "items": [
+    ]
+}
