@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Portafolio",
     "description": "",
-    "home_page_url": "https://infinityxgame.github.io",
-    "feed_url": "https://infinityxgame.github.io/feed.json",
+    "home_page_url": "https://infinityxgame.github.io/portfolio",
+    "feed_url": "https://infinityxgame.github.io/portfolio/feed.json",
     "user_comment": "",
     "author": {
         "name": "Frank Machado Graziadio"
     },
     "items": [
+        {
+            "id": "https://infinityxgame.github.io/portfolio/hola/",
+            "url": "https://infinityxgame.github.io/portfolio/hola/",
+            "title": "hola",
+            "summary": "probando esta wea",
+            "content_html": "<p>probando esta wea</p>",
+            "author": {
+                "name": "Frank Machado Graziadio"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-28T00:08:46-04:00",
+            "date_modified": "2023-05-28T00:08:46-04:00"
+        }
     ]
 }
