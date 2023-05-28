@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Frank Machado - Portfolio",
+    "title": "Portfolio",
     "description": "",
     "home_page_url": "https://portfolio-infinityxgame.vercel.app",
     "feed_url": "https://portfolio-infinityxgame.vercel.app/feed.json",
