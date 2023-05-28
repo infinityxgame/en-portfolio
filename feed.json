@@ -6,7 +6,7 @@
     "feed_url": "https://portfolio-infinityxgame.vercel.app/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Frank Machado Graziadio"
+        "name": "Frank Machado"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "probando esta wea",
             "content_html": "<p>probando esta wea</p>",
             "author": {
-                "name": "Frank Machado Graziadio"
+                "name": "Frank Machado"
             },
             "tags": [
             ],
